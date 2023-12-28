@@ -1,0 +1,119 @@
+{
+   "team_name": "PKU_ADSP",
+   "set_name": "VAL",
+   "report_date": "28062023_14_43_10",
+   "overall_scores": {
+      "precision": 0.7905467891383794,
+      "recall": 0.7274482860687134,
+      "fmeasure (percentage)": 75.769
+   },
+   "scores_per_subset": {
+      "HB": {
+         "precision": 0.8828382838283828,
+         "recall": 0.8081570996978852,
+         "f-measure": 0.8438485804416404
+      },
+      "ME": {
+         "precision": 0.8909090909090909,
+         "recall": 0.9423076923076923,
+         "f-measure": 0.9158878504672897
+      },
+      "PB": {
+         "precision": 0.6494845360824743,
+         "recall": 0.5478260869565217,
+         "f-measure": 0.5943396226415094
+      }
+   },
+   "scores_per_audiofile": {
+      "R4_cleaned recording_17-10-17.wav": {
+         "precision": 0.9230769230769231,
+         "recall": 1.0,
+         "f-measure": 0.96
+      },
+      "R4_cleaned recording_13-10-17.wav": {
+         "precision": 1.0,
+         "recall": 0.9473684210526315,
+         "f-measure": 0.972972972972973
+      },
+      "R4_cleaned recording_TEL_25-10-17.wav": {
+         "precision": 1.0,
+         "recall": 0.98989898989899,
+         "f-measure": 0.9949238578680203
+      },
+      "#97_113.wav": {
+         "precision": 0.21794871794871795,
+         "recall": 0.14166666666666666,
+         "f-measure": 0.1717171717171717
+      },
+      "R4_cleaned recording_TEL_20-10-17.wav": {
+         "precision": 1.0,
+         "recall": 0.921875,
+         "f-measure": 0.959349593495935
+      },
+      "R4_cleaned recording_TEL_24-10-17.wav": {
+         "precision": 0.9887640449438202,
+         "recall": 0.8888888888888888,
+         "f-measure": 0.9361702127659575
+      },
+      "R4_cleaned recording_TEL_19-10-17.wav": {
+         "precision": 1.0,
+         "recall": 0.9444444444444444,
+         "f-measure": 0.9714285714285714
+      },
+      "#423_487.wav": {
+         "precision": 0.9047619047619048,
+         "recall": 1.0,
+         "f-measure": 0.95
+      },
+      "R4_cleaned recording_TEL_23-10-17.wav": {
+         "precision": 1.0,
+         "recall": 0.9642857142857143,
+         "f-measure": 0.9818181818181818
+      },
+      "R4_cleaned recording_16-10-17.wav": {
+         "precision": 1.0,
+         "recall": 1.0,
+         "f-measure": 1.0
+      },
+      "ME1.wav": {
+         "precision": 0.6923076923076923,
+         "recall": 0.8181818181818182,
+         "f-measure": 0.75
+      },
+      "ME2.wav": {
+         "precision": 0.9523809523809523,
+         "recall": 0.975609756097561,
+         "f-measure": 0.963855421686747
+      },
+      "BUK4_20171022_004304a.wav": {
+         "precision": 0.6842105263157895,
+         "recall": 0.7647058823529411,
+         "f-measure": 0.7222222222222222
+      },
+      "BUK4_20161011_000804.wav": {
+         "precision": 0.34,
+         "recall": 0.3617021276595745,
+         "f-measure": 0.35051546391752575
+      },
+      "BUK1_20181013_023504.wav": {
+         "precision": 0.5652173913043478,
+         "recall": 0.5416666666666666,
+         "f-measure": 0.5531914893617021
+      },
+      "BUK5_20161101_002104a.wav": {
+         "precision": 0.95,
+         "recall": 0.6477272727272727,
+         "f-measure": 0.7702702702702703
+      },
+      "BUK1_20181011_001004.wav": {
+         "precision": 0.8333333333333334,
+         "recall": 0.6451612903225806,
+         "f-measure": 0.7272727272727273
+      },
+      "BUK5_20180921_015906a.wav": {
+         "precision": 0.3333333333333333,
+         "recall": 0.2608695652173913,
+         "f-measure": 0.2926829268292683
+      }
+   }
+}

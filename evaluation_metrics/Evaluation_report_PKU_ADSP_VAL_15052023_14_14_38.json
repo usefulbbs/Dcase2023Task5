@@ -1,0 +1,119 @@
+{
+   "team_name": "PKU_ADSP",
+   "set_name": "VAL",
+   "report_date": "15052023_14_14_38",
+   "overall_scores": {
+      "precision": 1.4999925000375002e-05,
+      "recall": 1.4999911364160123e-05,
+      "fmeasure (percentage)": 0.001
+   },
+   "scores_per_subset": {
+      "HB": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "ME": {
+         "precision": 1.0,
+         "recall": 0.8461538461538461,
+         "f-measure": 0.9166666666666666
+      },
+      "PB": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      }
+   },
+   "scores_per_audiofile": {
+      "R4_cleaned recording_17-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_13-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_TEL_25-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "#97_113.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_TEL_20-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_TEL_24-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_TEL_19-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "#423_487.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_TEL_23-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "R4_cleaned recording_16-10-17.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "ME1.wav": {
+         "precision": 1.0,
+         "recall": 0.8181818181818182,
+         "f-measure": 0.9
+      },
+      "ME2.wav": {
+         "precision": 1.0,
+         "recall": 0.8536585365853658,
+         "f-measure": 0.9210526315789473
+      },
+      "BUK4_20171022_004304a.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "BUK4_20161011_000804.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "BUK1_20181013_023504.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "BUK5_20161101_002104a.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "BUK1_20181011_001004.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      },
+      "BUK5_20180921_015906a.wav": {
+         "precision": 1e-05,
+         "recall": 1e-05,
+         "f-measure": 1e-05
+      }
+   }
+}
